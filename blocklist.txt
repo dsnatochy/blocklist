@@ -6,3 +6,4 @@ craftnite
 slither
 tankster
 (=venge$|venge&)
+zombsroyale
