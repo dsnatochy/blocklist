@@ -8,3 +8,4 @@ tankster
 (=venge$|venge&)
 zombsroyale
 youtu
+viewpure
