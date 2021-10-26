@@ -14,3 +14,4 @@ diep
 krunker
 zombs
 iogame
+\\.io/
