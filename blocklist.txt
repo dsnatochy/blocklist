@@ -12,3 +12,4 @@ viewpure
 nitrotype
 diep
 krunker
+zombs
