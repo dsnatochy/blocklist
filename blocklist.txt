@@ -15,3 +15,4 @@ krunker
 zombs
 iogame
 \\.io/
+discord
